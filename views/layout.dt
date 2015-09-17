@@ -61,7 +61,10 @@ html(ng-app, lang="en-US")
 
 				.clear
 		#footer
-			p 이메일: info@actus.kr 주소: 서울시 동작구 대림로 57, 거성타워 7층 (신대방동 686-74)
+			p 지역화폐, 암호화폐, 블록체인 관련문의: 최예준 PD(yezune@actus.kr, 010-7331-8418), 홍성호 이사(icarus@actus.kr, 010-8483-3467)
+			p 보드게임 제작, 판매, 컨설팅 문의: 서영화 PD(movie31@actus.kr, 010-4145-9121)
+
+			p 주소: 서울시 동작구 대림로 57, 거성타워 7층 (신대방동 686-74), (57, Daerim-ro, Dongjak-gu, Seoul, Korea)
 			p 저작권 © 2009-2015 <a href="http://actus.kr">엑투스 협동조합</a>
 
 		#vgrid-overlay
