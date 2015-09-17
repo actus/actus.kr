@@ -108,7 +108,7 @@ shared static this()
 
 	auto settings = new HTTPServerSettings;
 	settings.hostName = "actus.kr";
-	settings.port = 8003;
+	settings.port = 80;
 	//settings.bindAddresses = ["127.0.0.1"];
 	settings.errorPageHandler = toDelegate(&error);
 	
