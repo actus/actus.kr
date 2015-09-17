@@ -13,14 +13,12 @@ block body
 	section#contact
 	h2 연락처: 
 
-	b   전화: 02-564-8418
-		팩스: 02-569-8418
-		이메일: info@actus.kr
-		주소: 서울시 관악구 남현2길 62, 2층 (남현동, 인성빌딩)
+	b   이메일: info@actus.kr
+		주소: 서울시 동작구 대림로 57 거성타워 7층 (신대방동 686-74)
 		2F, Inseong Bldg, 62, Namhyeon 2-gil, Gwanak-gu, Seoul, Korea
 
 	section#map
 
 	h2 찾아오시는 길:
 	
-	p <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12665.498142254031!2d126.97394969999999!3d37.47548715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca03820b635fd%3A0x11dd77659526dd9f!2z64yA7ZWc66-86rWtIOyEnOyauO2KueuzhOyLnCDqtIDslYXqtawg64Ko7ZiEMuq4uCA2Mg!5e0!3m2!1sko!2s!4v1429585750736" width="400" height="300" frameborder="0" style="border:0"></iframe>
+	p <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d395.72973484661776!2d126.90716444959162!3d37.48815195959251!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c9e344a9b1d0f%3A0x7eecca4e77ddd51!2z7ISc7Jq47Yq567OE7IucIOuPmeyekeq1rCDrjIDrprzroZwgNTc!5e0!3m2!1sko!2skr!4v1442453212777" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>

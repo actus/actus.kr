@@ -61,7 +61,7 @@ html(ng-app, lang="en-US")
 
 				.clear
 		#footer
-			p 전화: 02-564-8418,  팩스: 02-569-8418, 이메일: info@actus.kr 주소: 서울시 관악구 남현2길 62, 2층 (남현동, 인성빌딩)
+			p 이메일: info@actus.kr 주소: 서울시 동작구 대림로 57, 거성타워 7층 (신대방동 686-74)
 			p 저작권 © 2009-2015 <a href="http://actus.kr">엑투스 협동조합</a>
 
 		#vgrid-overlay
